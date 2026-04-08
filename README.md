@@ -42,7 +42,7 @@ To view the portfolio:
 
 1. Open the `index.html` file in any modern web browser.  
 2. Explore the layout and hover effects implemented through CSS.  
-3. Visit the [Personal Website](https://saiperam.github.io/Portfolio-Website/) for a live preview.  
+3. Visit the [Personal Website](https://saiperam.github.io/) for a live preview.  
 
 ## Skills Highlighted
 
